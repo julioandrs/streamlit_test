@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 from datetime import datetime
 import plotly.express as px
-from modules.page_config_dict import PAGE_CONFIG
+from page_config_dict import PAGE_CONFIG
 
 st.set_page_config(**PAGE_CONFIG)
 
